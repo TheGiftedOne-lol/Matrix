@@ -1,4 +1,4 @@
-import java.util.Arrays;
+//lol
 import java.util.Scanner;
 public class lol{
     static Scanner sc=new Scanner(System.in);
